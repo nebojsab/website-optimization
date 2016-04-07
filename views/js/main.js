@@ -408,11 +408,6 @@ var pizzaElementGenerator = function(i) {
 // Changed sizes to fit scroll screen
 function sizeSwitcher (size) {
 
-
-
-
-
-
   switch(size) {
     case "1":
       return 0.25;
@@ -433,14 +428,6 @@ function sizeSwitcher (size) {
 
 // Changes the value for the size of the pizza above the slider
 // Moved out of resizePizzas()
-
-
-
-
-
-
-
-
 
 
 function changeSliderLabel(size) {
